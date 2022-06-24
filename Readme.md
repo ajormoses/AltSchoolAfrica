@@ -10,7 +10,8 @@
 
 (b) Live link of task assessment: [ https://ALT-ASSIGNMENT-TASK-1.ajormoses.repl.co ]
 
-- [Author](#author)
-  Github page: [ https://github.com/ajormoses ]
-  Linkedin: [ https://www.linkedin.com/in/moses-ajor-0b99291a7/ ]
-  Twitter: [ https://twitter.com/ajor_moses ]
+### Author
+
+- [Githubpage](#Githubpage): [ https://github.com/ajormoses ]
+- [Linkedin](#Linkedin) : [ https://www.linkedin.com/in/moses-ajor-0b99291a7/ ]
+- [Twitter](#Twitter) : [ https://twitter.com/ajor_moses ]
