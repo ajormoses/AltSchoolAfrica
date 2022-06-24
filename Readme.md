@@ -1,6 +1,6 @@
 # ALTSchool Africa
 
-### My name is Ajor Moses, I'm a student of AltSchool Africa, this is the repo containing all my assignment in the academy.
+### My name is Ajor Moses, I'm a student of AltSchool Africa, this is my repository containing all the task assignment in the academy.
 
 ![First Assignment in ALTSchool](./Tasks/assignment_page1.JPG)
 
