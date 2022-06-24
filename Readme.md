@@ -1,12 +1,13 @@
-# My AltSchool Assessment Repo
+# ALTSchool Africa
 
 ### My name is Ajor Moses, I'm a student of AltSchool Africa, this is the repo containing all my assignment in the academy.
 
-##### 1. First Assignment in ALTSchool
+![First Assignment in ALTSchool](./Tasks/assignment_page1.JPG)
 
-(./Tasks/assignment_page1.JPG)
+### (TASK 1)
 
 (a) Solution link of task assessment: [ https://replit.com/@ajormoses/ALT-ASSIGNMENT-TASK-1 ]
+
 (b) Live link of task assessment: [ https://ALT-ASSIGNMENT-TASK-1.ajormoses.repl.co ]
 
 - [Author](#author)
